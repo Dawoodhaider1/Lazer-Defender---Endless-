@@ -1,0 +1,2 @@
+E:\Unity Projects\LazerDefender\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Unity Projects\LazerDefender\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
